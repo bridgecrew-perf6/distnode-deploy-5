@@ -1,0 +1,26 @@
+{
+  "name": "distnode-deploy",
+  "version": "1.0.0",
+  "description": "[del] just test",
+  "main": "recipe.js",
+  "dependencies": {
+    "@types/node": "^14.14.14",
+    "fastify": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Fake Tests\" && exit 0",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonmin/distnode-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonmin/distnode-deploy/issues"
+  },
+  "homepage": "https://github.com/leonmin/distnode-deploy#readme"
+}
