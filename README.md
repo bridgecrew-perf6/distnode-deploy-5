@@ -2,3 +2,4 @@
 
 [del] just test
 testing success
+testing failure

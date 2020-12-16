@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Fake Tests\" && exit 0",
+    "test": "echo \"Fake Tests\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
